@@ -38,7 +38,7 @@ add_action( 'wp_enqueue_scripts', 'icono_enqueue_scripts' );
 function icono_styles_compat() {
 	echo '
 <style type="text/css">
-.icono:before, .icono:after {
+.icon:before, .icon:after {
 	box-sizing: content-box;
 }
 </style>
@@ -97,7 +97,7 @@ function icono_shortcode( $atts )
 	foreach ( $styles as $key => $value  )
 		$style .= !empty($value) ? trim($key).':'.trim($value).';' : '';
 
-	return '<i class="icono ' . ( strpos($name,'icono-') === 0 ? $name : 'icono-'.$name ) . '"' . ( !empty($style) ? ' style="'.$style.'"' : '' ) . '></i>';	
+	return '<i class="icon ' . ( strpos($name,'icono-') === 0 ? $name : 'icono-'.$name ) . '"' . ( !empty($style) ? ' style="'.$style.'"' : '' ) . '></i>';	
 }
 add_shortcode( 'icon', 'icono_shortcode' );
 add_shortcode( 'icono', 'icono_shortcode' );
