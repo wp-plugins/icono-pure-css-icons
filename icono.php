@@ -1,16 +1,16 @@
 <?php
 /*
-Plugin Name: Icono - Pure css icons
+Plugin Name: Icono - Pure CSS icons
 Plugin URI: http://status301.net/wordpress-plugins/icono/
-Description: Add the Icono pure css icons to your WordPress site. Use shortcode [icon name] in posts and text widgets. See http://git.io/icono for available icons and their names.
+Description: Add the Icono pure CSS icons by Saeed Alipoor to your WordPress site. Use shortcode [icon name] in posts and text widgets. See http://git.io/icono for available icons and their names.
 Author: RavanH, Saeed Alipoor
 Version: 0.3
 Author URI: http://saeedalipoor.github.io/icono/
 
 Credits:
-	The Font Awesome icon set was created by Saeed Alipoor http://git.io/icono
+	The Icono pure CSS icons set was created by Saeed Alipoor http://git.io/icono
 
-License:
+Plugin License:
   Copyright (C) 2015  Rolf Allard van Hagen
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by

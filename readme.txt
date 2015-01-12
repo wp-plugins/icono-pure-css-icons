@@ -1,11 +1,11 @@
-=== Icono - Pure css icons ===
+=== Icono - Pure CSS icons ===
 Contributors: RavanH, Digital Morphosis
 Tags: icono, icon, icons, css icons
 Requires at least: 2.6
 Tested up to: 4.2-alpha
 Stable tag: 0.3
 
-Add Icono pure css icons to your WordPress site.
+Add Icono pure CSS icons to your WordPress site.
 
 == Description ==
 
@@ -15,6 +15,8 @@ This lightweight plugin adds the [Icono pure css icons stylesheet](http://saeeda
 
 Icono is an icon pack that needs no external resources. Every tag can be an icon made with **pure CSS** by giving it the appropriate class. 
 Just add iconos classes to any type of elements that support the psuedo-element.
+
+Icono was created and is maintained by [Saeed Alipoor](https://github.com/saeedalipoor)
 
 = Shortcode =
 
