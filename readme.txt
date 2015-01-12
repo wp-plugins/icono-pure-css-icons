@@ -5,7 +5,7 @@ Requires at least: 2.6
 Tested up to: 4.2-alpha
 Stable tag: 0.2
 
-Add the Icono pure css icons stylesheet and shortcode to your WordPress site.
+Add Icono pure css icons to your WordPress site.
 
 == Description ==
 

@@ -2,7 +2,7 @@
 /*
 Plugin Name: Icono - Pure css icons
 Plugin URI: http://status301.net/wordpress-plugins/icono/
-Description: Add the Icono pure css icons stylesheet to your WordPress site.
+Description: Add the Icono pure css icons to your WordPress site. Use shortcode [icon name] in posts and text widgets. See http://git.io/icono for available icons and their names.
 Author: RavanH, Saeed Alipoor
 Version: 0.2
 Author URI: http://saeedalipoor.github.io/icono/
