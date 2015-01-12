@@ -28,7 +28,7 @@ There are also the parameters scale, rotation, color and style (for custom styli
 
 To show a big red arrow pointing left:
 `
-[icon locationArrow scale=2 rotation=180 color=red]
+[icon locationArrow scale=2 rotation=225 color=red]
 `
 Note: scale=1 corresponds with the default of around 32 x 32 pixels for most icons.
 
