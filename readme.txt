@@ -11,7 +11,7 @@ Add Icono pure css icons to your WordPress site.
 
 This lightweight plugin adds the [Icono pure css icons stylesheet](http://saeedalipoor.github.io/icono/) to your WordPress site. 
 
-The shortcodes [icon name] and [icono name] are available for easy insertion of icons in post or text widget content. See http://saeedalipoor.github.io/icono/ for available icons and their corresponding name.
+The shortcodes [icon name] and [icono name] are available for easy insertion of icons in post or text widget content. See http://saeedalipoor.github.io/icono/ for available icons and their corresponding name. You can simply paste the name (with or without "icono-") or use name="icono-name" as a parameter. There are also the parameters color ans style (for more advanced styling) available.
 
 == Installation ==
 
@@ -52,7 +52,8 @@ Same as above but do a **Network Activate** to make the stylesheet and shortcode
 Date: 11 Jan 2015
 Dev time: 2 hour
 
-* Added shortcodes [icon] and [icono] 
+* Added shortcodes [icon] and [icono]
+* Added style attribute parameters 'style' and 'color'
 
 = 0.1 =
 
