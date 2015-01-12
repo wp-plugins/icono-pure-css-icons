@@ -17,11 +17,11 @@ The shortcodes [icon name] and [icono name] are available for easy insertion of 
 
 = Wordpress =
 
-Quick installation: [Install now](http://coveredwebservices.com/wp-plugin-install/?plugin=icono) !
+Quick installation: [Install now](http://coveredwebservices.com/wp-plugin-install/?plugin=icono-pure-css-icons) !
 
  &hellip; OR &hellip;
 
-Go to that slick **Plugins > Add New** back-end page and search for "cookie ok".
+Go to that slick **Plugins > Add New** back-end page and search for "icono".
 
  &hellip; OR &hellip;
 
@@ -37,9 +37,7 @@ Done!
 
 = Wordpress MU / WordPress 3+ in Multi Site mode =
 
-Same as above but do a **Network Activate** to activate the cookie notification on each site on your network. No database tables are created or manipulated and no activation hook needs to be run for it to function with default settings. 
-
-The plugin can also work from the **/mu-plugins/** folder where it runs quietly in the background without bothering any blog owner with new options pages or the need for special knowledge about it. Just upload the complete package content under the /cookie-ok/ directory to /mu-plugins/.
+Same as above but do a **Network Activate** to make the stylesheet and shortcode available on each site on your network. No database tables are created or manipulated and no activation hook needs to be run for it to function with default settings. 
 
 
 == Screenshots ==
