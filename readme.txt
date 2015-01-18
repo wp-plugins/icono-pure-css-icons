@@ -13,10 +13,10 @@ This lightweight plugin adds the [Icono pure css icons stylesheet](http://saeeda
 
 = Icono =
 
-Icono is an icon pack that needs no external resources. Every tag can be an icon made with **pure CSS** by giving it the appropriate class. 
-Just add iconos classes to any type of elements that support the psuedo-element.
+Icono is an icon pack that needs no external resources except one small stylesheet. No javascript or font pack needed. Any tag can be an made into an icon with **pure CSS** by giving it the appropriate class. 
+Just add an icono class to any type of element that supports the psuedo-element.
 
-Icono was created and is maintained by [Saeed Alipoor](https://github.com/saeedalipoor)
+Icono was created and is maintained by [Saeed Alipoor](https://github.com/saeedalipoor) and currently features 100 pure CSS icons.
 
 = Shortcode =
 
@@ -26,11 +26,11 @@ There are also the parameters scale, rotation, color and style (for custom styli
 
 = Example = 
 
-To show a big red arrow pointing left:
+To show a big* red arrow pointing left:
 `
 [icon locationArrow scale=2 rotation=225 color=red]
 `
-Note: scale=1 corresponds with the default of around 32 x 32 pixels for most icons.
+* Note: scale=1 corresponds with the default of around 32 x 32 pixels for most icons.
 
 
 == Installation ==
@@ -70,7 +70,7 @@ Same as above but do a **Network Activate** to make the stylesheet and shortcode
 = 0.3 =
 
 Date: 12 Jan 2015
-Dev time: 3 hour
+Dev time: 4 hours
 
 * Added shortcode parameters 'scale' and 'rotate'
 * FIX: style patch for TwentyFifteen compat
@@ -78,7 +78,7 @@ Dev time: 3 hour
 = 0.2 =
 
 Date: 11 Jan 2015
-Dev time: 2 hour
+Dev time: 2 hours
 
 * Added shortcodes [icon] and [icono]
 * Added style attribute parameters 'style' and 'color'
